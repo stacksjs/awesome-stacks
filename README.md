@@ -91,19 +91,18 @@
 
 ## Official Stacks
 
-- [Table](https://github.com/stacksjs/table) (Q3 - Data tables with ease)
-- [Calendar](https://github.com/stacksjs/calendar) (Q3 - Add to Calendar utilities—iCal, Google, and more)
-- [Command Palette](https://github.com/stacksjs/command-palette) (Q3 - `⌘ + k` for the web)
-- [Date Picker](https://github.com/stacksjs/date-picker) (Q3 - Beautiful, modern date picker)
-- [File Manager](https://github.com/stacksjs/file-manager) (Q3 - Build your own file manager—like Dropbox or Google Drive)
-- [Image](https://github.com/stacksjs/image) (Q3 - Modern image experience)
-- [Video](https://github.com/stacksjs/video) (Q3 - Modern video experience)
-- [Audio](https://github.com/stacksjs/audio) (Q3 - Modern audio experience)
-- [Web3](https://github.com/stacksjs/web3) (Q3 - Solana support, cross-chain core _Ethereum & Cardano drivers coming._)
-  - [Wallets](https://github.com/stacksjs/wallets) (Q3 - Wallet Authentication)
-  - [NFT](https://github.com/stacksjs/nft) (Q3 - NFTs, Candy Machine mechanisms, and more.)
-  - [DeFi](https://github.com/stacksjs/defi) (Q4 - Cross-chain DeFi engine, including staking support)
-  - [DAO](https://github.com/stacksjs/dao) (Q4 - Powerful toolkit for DAO governance)
+- [Table](https://github.com/stacksjs/table) (wip - Data tables with ease)
+- [Calendar](https://github.com/stacksjs/calendar) (wip - Add to Calendar utilities—iCal, Google, and more)
+- [Command Palette](https://github.com/stacksjs/command-palette) (wip - `⌘ + k` for the web)
+- [Date Picker](https://github.com/stacksjs/date-picker) (wip - Beautiful, modern date picker)
+- [File Manager](https://github.com/stacksjs/file-manager) (wip - Build your own file manager—like Dropbox or Google Drive)
+- [Image](https://github.com/stacksjs/image) (wip - Modern image experience)
+- [Video](https://github.com/stacksjs/video) (wip - Modern video experience)
+- [Audio](https://github.com/stacksjs/audio) (wip - Modern audio experience)
+- [Identity](https://github.com/stacksjs/identity) (wip - Identity providers)
+- [Digital Ownership](https://github.com/stacksjs/ownerhsip) (wip - Public ownership protocol integrations)
+- [Payments](https://github.com/stacksjs/defi) (wip - Unified payment & wallet APIs)
+- [Governance](https://github.com/stacksjs/governance) (wip - Powerful toolkit for democratic governance)
 
 ## Open Source Stacks
 
@@ -171,7 +170,6 @@ _Editor plugins & integrations._
 
 _Scaffold / boilerplate / seed / starter kits._
 
-- [artisan-init](https://github.com/stacksjs/stacks/tree/main/.stacks/artisan) - Simple CLI for scaffolding Stacks.js projects.
 - [ts-starter](https://github.com/ow3org/ts-starter) - TypeScript Starter template to simplify creating & distributing your next npm package.
 - [vue-starter](https://github.com/ow3org/vue-starter) - Vue Component Library Starter kit to help kick-start development of your next library.
 - [web-components-starter](https://github.com/ow3org/web-components-starter) - Web Components Starter template to help kick-start development of a framework-agnostic component library.
