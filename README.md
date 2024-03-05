@@ -24,11 +24,6 @@
   - [Image](https://github.com/stacksjs/image) (Modern image experience)
   - [Video](https://github.com/stacksjs/video) (Modern video experience)
   - [Audio](https://github.com/stacksjs/audio) (Modern audio experience)
-  - [Web3](https://github.com/stacksjs/web3) (Solana support, cross-chain core _Ethereum & Cardano drivers coming._)
-    - [Wallets](https://github.com/stacksjs/wallets) (Wallet Authentication)
-    - [NFT](https://github.com/stacksjs/nft) (NFTs, Candy Machine mechanisms, and more.)
-    - [DeFi](https://github.com/stacksjs/defi) (Cross-chain DeFi engine, including staking support)
-    - [DAO](https://github.com/stacksjs/dao) (Powerful toolkit for DAO governance)
 - [Open Source Stacks](#open-source-stacks)
   - [UI Component Libraries](#ui-component-libraries)
   - [Function Libraries](#function-libraries)
@@ -156,7 +151,8 @@ _Create documentation._
 
 #### Test
 
-- [Vitest](https://vitest.dev/) - Stacks comes with first-party support for Vitest.
+- [Vitest](https://vitest.dev/) - Unit tests via Vitest
+- [Playwright](https://github.com/microsoft/playwright) - Feature Tests via Playwright
 
 #### IDEs
 
@@ -164,13 +160,13 @@ _Editor plugins & integrations._
 
 ##### Visual Studio Code
 
-- [Volar](https://github.com/johnsoncodehk/volar) - Stacks recommends Volar for VS Code. 
+- ...
 
 ### Scaffold
 
 _Scaffold / boilerplate / seed / starter kits._
 
-- [ts-starter](https://github.com/ow3org/ts-starter) - TypeScript Starter template to simplify creating & distributing your next npm package.
+- [ts-starter](https://github.com/stacksjs/ts-starter) - TypeScript Starter template to simplify creating & distributing your next npm package.
 - [vue-starter](https://github.com/ow3org/vue-starter) - Vue Component Library Starter kit to help kick-start development of your next library.
 - [web-components-starter](https://github.com/ow3org/web-components-starter) - Web Components Starter template to help kick-start development of a framework-agnostic component library.
 - [composable-starter](https://github.com/ow3org/composable-starter) - Composable Starter Kit to simplify creating & distributing your next npm package/s.
